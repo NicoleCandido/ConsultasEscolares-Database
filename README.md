@@ -1,4 +1,4 @@
-<h1 align="center">📝 Consultas Escolares</h1>
+<h1 align="center">Consultas Escolares</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-8a2be2?style=for-the-badge&logo=mysql&logoColor=white" />
